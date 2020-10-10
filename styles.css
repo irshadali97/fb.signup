@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: inherit;
+}
+
+.top {
+    background-color: #385898;
+    height: 86px;
+    color: white;
+    
+    width: 100%;
+}
+
+.image {
+    font-size: 3rem;
+    float: left;  
+    padding: 20px 180px 15px 180px;
+   
+}
+.up {
+    float: left;
+    padding: 5px;
+    margin: 25px 100px 25px 370px;
+    background-color: rgb(65, 65, 206);
+    color: white;
+    border-color:rgb(69, 69, 221);
+    letter-spacing: 0.4px;
+    
+}
+
+.bottom {
+    clear: left;
+
+}
+form {
+   width: 40%;
+   height: 1000px;
+   margin: 10px 450px;
+   letter-spacing: 0.4px;
+}
+.cena {
+    font-size: 2.5rem;
+}
+.it {
+    font-size: 1.8rem;
+    color:grey;
+}
+.fname {
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+
+}
+.sname {
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    margin: 0px 10px;
+
+}
+.mail {
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 440px;
+    margin-top: 10px;
+
+}
+.pswd {
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 440px;
+    margin-top: 10px;
+}
+.dob {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    color: grey;
+}
+.dobs {
+    font-size: 18px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    width: 440px;
+    margin-top: 10px;
+}
+.gen {
+    font-weight: bold;
+    font-size: 16px;
+   margin-top: 15px;
+    
+    color: grey;
+}
+.last {
+    width: 400px;
+    margin-bottom: 20px;
+}
+.lb {
+    min-width: 194px;
+padding: 7px 20px;
+text-align: center;
+font-weight: bold;
+background-color: rgb(22, 150, 5);
+color: white;
+}
